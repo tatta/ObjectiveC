@@ -33,7 +33,6 @@
 		userIsInTheMiddleOfTypingANumber = NO;
 	}
 	//NSLog(@"The answer to %@, the universe and everything is %d.", @"life", 42);
-	
 	NSString *operation = [[sender titleLabel] text]; 
 	double result = [[self brain] performOperation:operation];
 	[display setText:[NSString stringWithFormat:@"%g", result]];

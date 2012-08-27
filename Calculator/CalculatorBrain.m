@@ -42,7 +42,7 @@
 	}
 	else if([@"1/x" isEqual:operation]){
 		if (operand) 
-		  operand = 1/(operand);
+			operand = 1/(operand);
 	}
 	else if([@"sin" isEqual:operation]){
 		operand = sin(operand);
@@ -70,20 +70,19 @@
 		waitingOperand = 0;
 		memoryOperand = 0;
 		
-	}
+	}	
 	else if([@"π" isEqual: operation]) {
 		//set operand to PI
 		operand = M_PI;
 	}	
 	/*else if ([@"del" isEqual: operation]){
-		if (operand) { 
-			if(operand%10>1)
-			operand = operand/10;
-		}
-	}*/
-
+	 if (operand) { 
+	 if(operand%10>1)
+	 operand = operand/10;
+	 }
+	 }*/
 	else {
-	   [self performWaitingOperation];
+		[self performWaitingOperation];
 		waitingOperation = operation;
 		waitingOperand = operand;
 	}

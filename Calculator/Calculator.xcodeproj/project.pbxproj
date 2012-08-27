@@ -20,8 +20,8 @@
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* CalculatorAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CalculatorAppDelegate.h; path = Classes/CalculatorAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* CalculatorAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CalculatorAppDelegate.m; path = Classes/CalculatorAppDelegate.m; sourceTree = "<group>"; };
+		1D3623240D0F684500981E51 /* CalculatorAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CalculatorAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +55,8 @@
 			children = (
 				FEF4AF9C14D57D62000A6128 /* CalculatorBrain.h */,
 				FEF4AF9D14D57D62000A6128 /* CalculatorBrain.m */,
+				1D3623240D0F684500981E51 /* CalculatorAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CalculatorAppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* CalculatorViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* CalculatorViewController.m */,
 			);
@@ -84,8 +86,6 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				1D3623240D0F684500981E51 /* CalculatorAppDelegate.h */,
-				1D3623250D0F684500981E51 /* CalculatorAppDelegate.m */,
 				32CA4F630368D1EE00C91783 /* Calculator_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
