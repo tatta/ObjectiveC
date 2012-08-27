@@ -1,7 +1,7 @@
 TCalculator
 v7
 r0
-t367627690.485918
+t367716597.708820
 cCheck dependencies
 cProcessInfoPlistFile "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist" Calculator-Info.plist
 cCompileXIB "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/MainWindow.xib"
@@ -52,9 +52,9 @@ s418
 i<Foundation/Foundation.h>
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib
-c0000000050395627000000000000EA81
-t1345934887
-s60033
+c00000000503AB5D90000000000010ED8
+t1346024921
+s69336
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Calculator_Prefix.pch
 c000000004F2544D000000000000000BD
@@ -64,9 +64,9 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m
-c00000000503955BA000000000000067F
-t1345934778
-s1663
+c00000000503AB1700000000000000745
+t1346023792
+s1861
 i"CalculatorBrain.h"
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/CalculatorAppDelegate.h
@@ -110,8 +110,8 @@ t1345933327
 s38608
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o
-t1345934781
-s9568
+t1346023797
+s9832
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
 t1345933327
@@ -138,20 +138,20 @@ t1345657382
 s275
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app
-t1345934890
+t1346023797
 s238
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
-t1345934782
+t1346023797
 s102
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
-t1345934781
-s20776
+t1346023797
+s20784
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib
-t1345934890
-s9213
+t1346023056
+s10030
 
 N/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
 t1327842544
@@ -345,7 +345,7 @@ lSLF07#2@77"Analyze /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculat
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies367627688#367627688#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies367716597#367716597#0(0"0(0#1#0"4300911832#0"0#
 
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/CalculatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s367626126.764271
@@ -374,8 +374,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@80"Compile /Users/dt07sp1/Desktop/iphone/Calculator/Classes/CalculatorAppDelegate.m367247039#367247039#0(0"0(0#0#72"/Users/dt07sp1/Desktop/iphone/Calculator/Classes/CalculatorAppDelegate.m4300911832#1983"    cd /Users/dt07sp1/Desktop/iphone/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/include -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/qM/qMuRZzTlEgCvAhpVURePFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bqexjflehiisdecwtqisswbteumo/Calculator_Prefix.pch -c /Users/dt07sp1/Desktop/iphone/Calculator/Classes/CalculatorAppDelegate.m -o /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o0#
 
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s367627581.703973
-e367627581.934295
+s367716597.329407
+e367716597.458189
 r1
 xCompileC
 xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o
@@ -384,7 +384,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@99"Compile /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m367627581#367627581#0(0"0(0#0#91"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m4300911832#2238"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/include" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/qM/qMuRZzTlEgCvAhpVURePFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-cwkzipxmxaiidtapunmlekvopwgj/Calculator_Prefix.pch -c "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m" -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o"0#
+lSLF07#2@99"Compile /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m367716597#367716597#0(0"0(0#0#91"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m4300911832#2238"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/include" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -include /var/folders/qM/qMuRZzTlEgCvAhpVURePFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-cwkzipxmxaiidtapunmlekvopwgj/Calculator_Prefix.pch -c "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Classes/../CalculatorBrain.m" -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o"0#
 
 CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorBrain.o /Users/dt07sp1/Desktop/iphone/Calculator/CalculatorBrain.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -455,12 +455,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@55"Compile /Users/dt07sp1/Desktop/iphone/Calculator/main.m367192722#367192722#0(0"0(0#0#47"/Users/dt07sp1/Desktop/iphone/Calculator/main.m4300911832#1941"    cd /Users/dt07sp1/Desktop/iphone/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/include -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/qM/qMuRZzTlEgCvAhpVURePFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-bqexjflehiisdecwtqisswbteumo/Calculator_Prefix.pch -c /Users/dt07sp1/Desktop/iphone/Calculator/main.m -o /Users/dt07sp1/Desktop/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o0#
 
 CCompileXIB "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib"
-s367627688.901124
-e367627690.482288
+s367715856.512430
+e367715857.129298
 r1
 xCompileXIB
 x/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib
-lSLF07#2@39"CompileXIB CalculatorViewController.xib367627688#367627690#0(0"0(0#0#91"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib4300911832#591"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib" "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib"0#
+lSLF07#2@39"CompileXIB CalculatorViewController.xib367715856#367715857#0(0"0(0#0#91"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib4300911832#591"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib" "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/CalculatorViewController.xib"0#
 
 CCompileXIB "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/MainWindow.xib"
 r0
@@ -483,13 +483,13 @@ oCouldn't open shared capabilities memory GSCapabilities (No such file or direct
 lSLF07#2@25"CompileXIB MainWindow.xib349535344#349535344#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/dt07sp1/Desktop/iphone/Calculator/MainWindow.xib4300911832#491"    cd /Users/dt07sp1/Desktop/iphone/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib /Users/dt07sp1/Desktop/iphone/Calculator/MainWindow.xib0#
 
 CGenerateDSYMFile "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM" "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"
-s367627582.013093
-e367627582.086849
+s367716597.570381
+e367716597.661376
 r1
 xGenerateDSYMFile
 x/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
 x/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator367627582#367627582#0(0"0(0#0#116"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator4300911832#470"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM"0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator367716597#367716597#0(0"0(0#0#116"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator4300911832#470"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM"0#
 
 CGenerateDSYMFile /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
 s367247039.419034
@@ -501,14 +501,14 @@ x/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator
 lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator367247039#367247039#0(0"0(0#0#94"/Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator4300911832#398"    cd /Users/dt07sp1/Desktop/iphone/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator -o /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM0#
 
 CLd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator" normal i386
-s367627581.934413
-e367627582.012983
+s367716597.458291
+e367716597.570245
 r1
 xLd
 x/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
 xnormal
 xi386
-lSLF07#2@121"Link /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator367627581#367627582#0(0"0(0#0#0"4300911832#1009"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" "-F/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" -filelist "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"0#
+lSLF07#2@121"Link /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator367716597#367716597#0(0"0(0#0#0"4300911832#1009"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" "-F/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" -filelist "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator"0#
 
 CLd /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
 s367247039.398309
@@ -572,12 +572,12 @@ xcom.apple.compilers.llvm.clang.1_0.analyzer
 lSLF07#2@32"Precompile Calculator_Prefix.pch367350181#367350182#0(0"0(0#0#84"/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Calculator_Prefix.pch4300911832#2059"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap" -iquote "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap" "-F/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/include" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386" "-I/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources" -c "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/Calculator_Prefix.pch" -o /var/folders/qM/qMuRZzTlEgCvAhpVURePFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-guwclhztftygckhjesxgkyohixjf/Calculator_Prefix.pch.pth0#
 
 CTouch "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app"
-s367627690.483137
-e367627690.485868
+s367716597.661481
+e367716597.708736
 r1
 xTouch
 x/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app
-lSLF07#2@111"Touch /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app367627690#367627690#0(0"0(0#0#0"4300911832#333"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app"0#
+lSLF07#2@111"Touch /Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app367716597#367716597#0(0"0(0#0#0"4300911832#333"    cd "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dt07sp1/Desktop/Dropbox/random bilder/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app"0#
 
 CTouch /Users/dt07sp1/Desktop/iphone/Calculator/build/Debug-iphonesimulator/Calculator.app
 s367247039.433840
